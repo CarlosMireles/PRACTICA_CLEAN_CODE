@@ -2,6 +2,8 @@
 
 Array1D es una clase en Python que representa un array unidimensional con operaciones básicas como suma, resta, diferencia absoluta, media, máximo y mínimo. Permite inicializarse con un rango de valores o con una lista predefinida, validando los límites y asegurando que las operaciones se realicen entre arrays de la misma longitud.
 
+**Jueves alboroto**
+
 ## Uso
 
 ```python
